@@ -19,7 +19,7 @@ main {
   flex-direction: column;
 }
 
-#name-lastname {
+.line-flex {
   display: flex;
 }
 
