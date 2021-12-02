@@ -19,6 +19,10 @@ main {
   flex-direction: column;
 }
 
+#name-lastname {
+  display: flex;
+}
+
 #trybewarts-forms-logo {
   height: 500px;
   margin-left: auto;
